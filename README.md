@@ -1,5 +1,5 @@
 # WebScrapping
-Web scrapping is one of the most important aspect of machine learning. We need data from different websites noew a days to model and to create meaningful results out of it. We need web scrapping in differnt applications as well, below are some applications of these examples.
+Web scrapping is one of the most important aspect of machine learning. We need data from different websites noew a days to model and to create meaningful results out of it. We need web scrapping in differnt applications as well, below are some examples.
 
 1. We scrape product details (price, images, ratings, reviews) from retailer manufacturer/ecommerce websites.
 
