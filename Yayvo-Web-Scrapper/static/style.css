@@ -113,23 +113,21 @@ tr:hover            { background-color: #29a19c; color: black;}
   }
   
   td:nth-child(2):before {
-    content: 'Product:';
-  }
-  td:nth-child(3):before {
     content: 'Name:';
   }
+  td:nth-child(3):before {
+    content: 'Old Price (PKR):';
+  }
   td:nth-child(4):before {
-    content: 'Price (INR):';
+    content: 'Regular Price (PKR):';
   }
   td:nth-child(5):before {
-    content: 'Rating:';
+    content: 'Discount %:';
   }
   td:nth-child(6):before {
-    content: 'Heading:';
+    content: 'Brand Name:';
   }
-  td:nth-child(7):before {
-    content: 'Comment:';
-  }
+  
 
   /*  */
   tr {
