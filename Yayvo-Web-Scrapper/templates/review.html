@@ -7,7 +7,12 @@
 {% endblock title %}
 
 <!-- <div class="container"> -->
-        
+        {% block word_cloud %}
+
+        <li class="nav-item btn-outline-success">
+                <a class="nav-link" href="{{ download_csv }}">Download Data</a>
+        </li>
+        {% endblock word_cloud %}
 
 
         {% block searchbar %}
