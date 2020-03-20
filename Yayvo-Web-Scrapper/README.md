@@ -10,6 +10,9 @@ Following are some screenshots of application:
 2. Page to display the product's details in a tabular form.
 ![2](https://user-images.githubusercontent.com/36659805/77142901-55356e80-6aa3-11ea-9d39-40e6abbd8ce1.PNG)
 
+3. Application looks like this in my smartphone. 
+![3](https://user-images.githubusercontent.com/36659805/77175223-11af2480-6ae4-11ea-903e-b20ca643a130.png)
+
 
 
 
