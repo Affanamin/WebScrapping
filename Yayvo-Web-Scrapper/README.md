@@ -2,6 +2,10 @@
 
 This is a flask based application to scrap ecommerce website named as yayvo.com. This application scrap yayvo.com and display content on screen, you can download csv file as well. Implement this yourself to learn web scrapping and if you want any help, simply contact me throgh my linkedin profile : https://www.linkedin.com/in/muhammad-affan-amin-696a27108/ 
 
+Application is deployed in cloud as well. link is :
+
+https://lnkd.in/gFR6Z7Z
+
 Following are some screenshots of application:
 
 1. Home page to search a product.
